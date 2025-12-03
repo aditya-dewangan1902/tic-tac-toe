@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.out
+tic_tac_toe
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.log
