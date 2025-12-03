@@ -4,8 +4,10 @@ A simple 2-player Tic Tac Toe game in terminal.
 
 ## How to Run
 
+```
 gcc tic_tac_toe.c -o tic_tac_toe
 ./tic_tac_toe
+```
 
 ## Gameplay
 
